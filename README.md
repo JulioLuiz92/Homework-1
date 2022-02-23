@@ -1,5 +1,5 @@
 # Homework-1
-Homework acessibility
+Homework/acessibility -
 This projected reestructed this webpage in order to meet accessibility standards. Changes made
 input the source code;
 input a logical structure of the HTML elements;
